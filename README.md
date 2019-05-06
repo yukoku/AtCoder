@@ -1,4 +1,3 @@
-# hello-world
-My first repository on github
+# AtCoder
+My AtCoder problem source
 
-I'm Japanese and begginer programmer!
