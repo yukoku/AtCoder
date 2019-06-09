@@ -41,6 +41,7 @@ private:
 
 int main()
 {
+    int N = 100;
     UnionFind tree(N);
     return 0;
 }
