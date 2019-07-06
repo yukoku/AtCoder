@@ -1,3 +1,4 @@
-# AtCoder
-My AtCoder problem source
+# AtCoder 私の答案
 
+非公開にしてましたが特に隠す意味もないので公開します。
+なんの参考にもならないとおもいますが...
